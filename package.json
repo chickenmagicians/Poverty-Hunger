@@ -1,0 +1,22 @@
+{
+  "name": "poverty-hunger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chickenmagicians/Poverty-Hunger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chickenmagicians/Poverty-Hunger/issues"
+  },
+  "homepage": "https://github.com/chickenmagicians/Poverty-Hunger#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
